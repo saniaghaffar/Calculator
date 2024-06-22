@@ -1,0 +1,39 @@
+body,html{
+          background-color: azure;
+          display: flex;
+          text-align: center;
+          align-content: center;
+          justify-content: center;
+          margin: 0;
+}
+.container{
+          background-color: burlywood;
+          text-align: center;
+          align-items: center;
+          justify-content: center;
+          margin: 250px;
+          border-radius: 6px;
+          padding: 7px;
+          margin-top: 150px;
+}
+.buttons{
+          height: 55px;
+          width: 75px;
+          margin: 2px;
+          padding: 12px;
+          font-size: 18px;
+          
+}
+input[type="text"]{
+          height: 27px;
+          width: 213px;
+          margin: 2px;
+          padding: 12px;
+          font-size: 18px;
+}
+#no2{
+          padding-top: 5px;
+}
+#equal{
+          background-color:coral;
+}
